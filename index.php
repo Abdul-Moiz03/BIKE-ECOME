@@ -98,5 +98,6 @@
 </div>
 
 <?php include 'includes/scripts.php'; ?>
+//yes yes i am moiz
 </body>
 </html>
